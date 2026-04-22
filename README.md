@@ -38,17 +38,17 @@ I enjoy building scalable web applications, designing RESTful APIs and learning 
 
 ##  Featured Projects
 
-###  E-Learning Coding Platform
+### Smart Learning Platform (E-learning) 
 Online coding judge system similar to LeetCode.
 
-**Tech:** MERN, Redis, Docker, Judge0  
+**Tech:** MERN, Redis, Docker, Judge0, SePay/VNPay  
 **Highlights:**
 - JWT & OAuth authentication
 - Sandbox code execution
 - Hidden test cases & scoring system
 - Optimized queries using caching
 
- Repo: https://github.com/YOUR_USERNAME/elearning-platform
+ Repo: https://github.com/posdon8/SLP1
 
 ---
 
@@ -61,28 +61,30 @@ Real-time meeting room with video, audio and chat.
 - Camera & microphone control
 - Real-time chat
 
- Repo: https://github.com/YOUR_USERNAME/meeting-room
+ Repo: https://github.com/posdon8/meeting-room
 
 ---
 
-###  E-commerce REST API
-Backend for online shopping system.
+###  Todolist
+ Personal task and time management application.
 
-**Tech:** Node.js, Express, MongoDB, Redis  
+**Tech:** Node.js, Express, MongoDB, JWT
 **Features:**
-- Authentication & authorization
-- Product & order management
-- Caching with Redis
+- User authentication with JWT
+- Create, update, delete tasks
+- Mark tasks as completed
+- Filter tasks by status
+- Clean RESTful API structure
 
- Repo: https://github.com/YOUR_USERNAME/ecommerce-api
+ Repo: https://github.com/posdon8/todolist
 
 ---
 
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=posdon8&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posdon8&layout=compact" />
 </p>
 
 ---
