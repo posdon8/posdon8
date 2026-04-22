@@ -1,8 +1,9 @@
-## Hi there 👋
-
+## Hi, I'm Tam👋
+Backend / Fullstack Developer
+I love building scalable web apps and system design.
 <!--
 **posdon8/posdon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Node.js | Express | MongoDB | Redis | Docker | REST API
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
