@@ -30,9 +30,10 @@ I enjoy building scalable web applications, designing RESTful APIs and learning 
 - Docker
 - Git & GitHub
 - Postman
+- Astah (UML) & Figma
 
 **Frontend (Basic)**
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React
 
 ---
 
